@@ -30,6 +30,5 @@ public class RandomNumber {
         int x = rand.nextInt(max-min+1)+min;
         System.out.println("Randome number in between 1 to 100: "+x);
 
-
     }
 }

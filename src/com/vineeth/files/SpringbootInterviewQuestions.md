@@ -5,7 +5,7 @@
     2. What are the advantages of using Spring Boot?
        Auto-configuration, embedded servers (like Tomcat, Jetty), production-ready features 
       (health checks, metrics), opinionated defaults, etc.
-    3. What is the difference between Spring and Spring Boot?
+    3. What is the difference between Spring and Spring Boot?      
 
 2. Spring Boot Features
     1. What is the purpose of the @SpringBootApplication annotation?
