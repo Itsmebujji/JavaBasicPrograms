@@ -9,3 +9,6 @@ Q8. Remove the space from the string
 Q9. How do you remove leading and trailing spaces from a string
 Q10. How do you sort an array
 Q11. How do you create a deadlock scenario programmatically
+Q12. How can you find the factorial of a number
+Q13. How do you reverse an linked list
+Q14. How do you implement the binary search
